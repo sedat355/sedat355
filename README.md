@@ -18,3 +18,4 @@
 <img align="left" width="32" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg">
 <img align="left" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png">
 <img align="left" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png"/>
+<img align="left" width="32" src="https://cdn.iconscout.com/icon/free/png-256/free-jquery-8-1175153.png"/>
