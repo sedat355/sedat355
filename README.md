@@ -1,6 +1,6 @@
 ## Hi there :wave: I'm Sedat
 
-### Web Developer | I have been working on frontend technologies since 2021.
+### Frontend Developer | I have been working on frontend technologies since 2021.
 
 ### Reach out to me
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/linkedin.svg" />][linkedin]
