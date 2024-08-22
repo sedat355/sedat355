@@ -1,4 +1,4 @@
-## Hi there :wave: I'm Sedat
+## Merhaba :wave: Ben Sedat
 
 ### Frontend Developer | I have been working on frontend technologies since 2021.
 
